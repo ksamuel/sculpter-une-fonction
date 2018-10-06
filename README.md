@@ -1,8 +1,11 @@
 # Sculpter une fonction
 
-Code de la Conférence Pycon fr 2018
+	def afficher(liste):
+		for element in liste:
+			print("-", element)
 
-Contact:
+Une fonction simple.
 
-Kevin Samuel
-kevin@formationspython.com
+Mais dans cette présentation qui mélange live coding et artisanat, elle va vite prendre du galon.
+
+*Contact: Kevin Samuel (kevin@formationspython.com)*
